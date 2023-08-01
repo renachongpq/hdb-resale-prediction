@@ -3,12 +3,19 @@
 Predict future HDB resale flat prices
 
 ## Dataset Source
+Majority of the datasets have been obtained from the government official data site, [data.gov.sg](https://data.gov.sg/). These are the datasets obtained from the site:
+* HDB resale flat prices: [link](https://data.gov.sg/dataset/resale-flat-prices)
+* List of supermarkets in Singapore (updated until 18 October 2021): [link](https://data.gov.sg/dataset/listing-of-licensed-supermarkets)
+
+The list of MRT and LRT stations were obtained from [mrtmapofsingapore.com](https://mrtmapsingapore.com/)
+
+Lastly, latitudes and longitudes coordinates of various locations were obtained through [OneMap API](https://www.onemap.gov.sg/apidocs/). These were mainly used to determine the distance between the location of the resale flat and nearby amenities.
 
 ## Exploratory Data Analysis
 
 ## Data Preparation (Cleaning, Feature Engineering etc.)
 
-## Modeling
+## Modelling
 
 
 ## Evaluation of Models & Discussion
