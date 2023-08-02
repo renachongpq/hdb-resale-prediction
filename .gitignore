@@ -1,0 +1,4 @@
+# ignore these data files
+data/metadata-resale-flat-prices.txt
+data/*resale-flat-prices-based-on*
+data/*.zip
