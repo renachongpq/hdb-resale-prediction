@@ -2,3 +2,4 @@
 data/metadata-resale-flat-prices.txt
 data/*resale-flat-prices-based-on*
 data/*.zip
+data/*.txt
