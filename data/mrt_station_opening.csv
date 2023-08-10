@@ -1,0 +1,163 @@
+﻿Alpha-numeric code(s),Station name,Opening
+NS1  EW24,Jurong East,10-Mar-90
+NS2,Bukit Batok,10-Mar-90
+NS3,Bukit Gombak,10-Mar-90
+NS4  BP1,Choa Chu Kang,10-Mar-90
+NS5,Yew Tee,10-Feb-96
+NS7,Kranji,10-Feb-96
+NS8,Marsiling,10-Feb-96
+NS9  TE2,Woodlands,10-Feb-96
+NS10,Admiralty,10-Feb-96
+NS11,Sembawang,10-Feb-96
+NS12,Canberra,2-Nov-19
+NS13,Yishun,20-Dec-88
+NS14,Khatib,20-Dec-88
+NS15,Yio Chu Kang,7-Nov-87
+NS16,Ang Mo Kio,7-Nov-87
+NS17  CC15,Bishan,7-Nov-87
+NS18,Braddell,7-Nov-87
+NS19,Toa Payoh,7-Nov-87
+NS20,Novena,12-Dec-87
+NS21–DT11,Newton,12-Dec-87
+NS22  TE14,Orchard,12-Dec-87
+NS23,Somerset,12-Dec-87
+NS24  NE6  CC1,Dhoby Ghaut,12-Dec-87
+NS25  EW13,City Hall,12-Dec-87
+NS26  EW14,Raffles Place,12-Dec-87
+NS27  CE2  TE20,Marina Bay,4-Nov-89
+NS28,Marina South Pier,23-Nov-14
+EW1,Pasir Ris,16-Dec-89
+EW2–DT32,Tampines,16-Dec-89
+EW3,Simei,16-Dec-89
+EW4  CG,Tanah Merah,4-Nov-89
+EW5,Bedok,4-Nov-89
+EW6,Kembangan,4-Nov-89
+EW7,Eunos,4-Nov-89
+EW8  CC9,Paya Lebar,4-Nov-89
+EW9,Aljunied,4-Nov-89
+EW10,Kallang,4-Nov-89
+EW11,Lavender,4-Nov-89
+EW12  DT14,Bugis,4-Nov-89
+EW13  NS25,City Hall,12-Dec-87
+EW14  NS26,Raffles Place,12-Dec-87
+EW15,Tanjong Pagar,12-Dec-87
+EW16  NE3  TE17,Outram Park,12-Dec-87
+EW17,Tiong Bahru,12-Mar-88
+EW18,Redhill,12-Mar-88
+EW19,Queenstown,12-Mar-88
+EW20,Commonwealth,12-Mar-88
+EW21  CC22,Buona Vista,12-Mar-88
+EW22,Dover,18-Oct-01
+EW23,Clementi,12-Mar-88
+EW24  NS1,Jurong East,5-Nov-88
+EW25,Chinese Garden,5-Nov-88
+EW26,Lakeside,5-Nov-88
+EW27,Boon Lay,6-Jul-90
+EW28,Pioneer,28-Feb-09
+EW29,Joo Koon,28-Feb-09
+EW30,Gul Circle,18-Jun-17
+EW31,Tuas Crescent,18-Jun-17
+EW32,Tuas West Road,18-Jun-17
+EW33,Tuas Link,18-Jun-17
+CG1  DT35,Expo,10-Jan-01
+CG2,Changi Airport,8-Feb-02
+NE1  CC29,HarbourFront,20-Jun-03
+EW16  NE3  TE17,Outram Park,20-Jun-03
+NE4  DT19,Chinatown,20-Jun-03
+NE5,Clarke Quay,20-Jun-03
+NS24  NE6  CC1,Dhoby Ghaut,20-Jun-03
+NE7  DT12,Little India,20-Jun-03
+NE8,Farrer Park,20-Jun-03
+NE9,Boon Keng,20-Jun-03
+NE10,Potong Pasir,20-Jun-03
+NE11,Woodleigh,20-Jun-11
+NE12  CC13,Serangoon,20-Jun-03
+NE13,Kovan,20-Jun-03
+NE14,Hougang,20-Jun-03
+NE15,Buangkok,15-Jan-06
+NE16  STC,Sengkang,20-Jun-03
+NE17  PTC,Punggol,20-Jun-03
+NS24  NE6  CC1,Dhoby Ghaut,16-Apr-10
+CC2,Bras Basah,16-Apr-10
+CC3,Esplanade,16-Apr-10
+CC4  DT15,Promenade,16-Apr-10
+CC5,Nicoll Highway,16-Apr-10
+CC6,Stadium,16-Apr-10
+CC7,Mountbatten,16-Apr-10
+CC8,Dakota,16-Apr-10
+EW8  CC9,Paya Lebar,16-Apr-10
+CC10  DT26,MacPherson,16-Apr-10
+CC11,Tai Seng,16-Apr-10
+CC12,Bartley,28-May-09
+NE12  CC13,Serangoon,28-May-09
+CC14,Lorong Chuan,28-May-09
+NS17  CC15,Bishan,28-May-09
+CC16,Marymount,28-May-09
+CC17  TE9,Caldecott,8-Oct-11
+CC19  DT9,Botanic Gardens,7-Oct-11
+CC20,Farrer Road,7-Oct-11
+CC21,Holland Village,7-Oct-11
+EW21  CC22,Buona Vista,7-Oct-11
+CC23,one-north,7-Oct-11
+CC24,Kent Ridge,7-Oct-11
+CC25,Haw Par Villa,7-Oct-11
+CC26,Pasir Panjang,7-Oct-11
+CC27,Labrador Park,7-Oct-11
+CC28,Telok Blangah,7-Oct-11
+NE1  CC29,HarbourFront,7-Oct-11
+CE1  DT16,Bayfront,14-Jan-12
+NS27  CE2  TE20,Marina Bay,14-Jan-12
+BP6–DT1,Bukit Panjang,27-Dec-15
+DT2,Cashew,27-Dec-15
+DT3,Hillview,27-Dec-15
+DT5,Beauty World,27-Dec-15
+DT6,King Albert Park,27-Dec-15
+DT7,Sixth Avenue,27-Dec-15
+DT8,Tan Kah Kee,27-Dec-15
+CC19  DT9,Botanic Gardens,27-Dec-15
+DT10  TE11,Stevens,27-Dec-15
+NS21–DT11,Newton,27-Dec-15
+NE7  DT12,Little India,27-Dec-15
+DT13,Rochor,27-Dec-15
+EW12  DT14,Bugis,22-Dec-13
+CC4  DT15,Promenade,22-Dec-13
+CE1  DT16,Bayfront,22-Dec-13
+DT17,Downtown,22-Dec-13
+DT18,Telok Ayer,22-Dec-13
+NE4  DT19,Chinatown,22-Dec-13
+DT20,Fort Canning,21-Oct-17
+DT21,Bencoolen,21-Oct-17
+DT22,Jalan Besar,21-Oct-17
+DT23,Bendemeer,21-Oct-17
+DT24,Geylang Bahru,21-Oct-17
+DT25,Mattar,21-Oct-17
+CC10  DT26,MacPherson,21-Oct-17
+DT27,Ubi,21-Oct-17
+DT28,Kaki Bukit,21-Oct-17
+DT29,Bedok North,21-Oct-17
+DT30,Bedok Reservoir,21-Oct-17
+DT31,Tampines West,21-Oct-17
+EW2–DT32,Tampines,21-Oct-17
+DT33,Tampines East,21-Oct-17
+DT34,Upper Changi,21-Oct-17
+CG1  DT35,Expo,21-Oct-17
+TE1,Woodlands North,31-Jan-20
+NS9  TE2,Woodlands,31-Jan-20
+TE3,Woodlands South,31-Jan-20
+TE4,Springleaf,28-Aug-21
+TE5,Lentor,28-Aug-21
+TE6,Mayflower,28-Aug-21
+TE7,Bright Hill,28-Aug-21
+TE8,Upper Thomson,28-Aug-21
+CC17  TE9,Caldecott,28-Aug-21
+DT10  TE11,Stevens,13-Nov-22
+TE12,Napier,13-Nov-22
+TE13,Orchard Boulevard,13-Nov-22
+NS22  TE14,Orchard,13-Nov-22
+TE15,Great World,13-Nov-22
+TE16,Havelock,13-Nov-22
+EW16  NE3  TE17,Outram Park,13-Nov-22
+TE18,Maxwell,13-Nov-22
+TE19,Shenton Way,13-Nov-22
+NS27  CE2  TE20,Marina Bay,13-Nov-22
+TE22,Gardens by the Bay,13-Nov-22
