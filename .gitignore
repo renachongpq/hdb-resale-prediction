@@ -3,3 +3,6 @@ data/metadata-resale-flat-prices.txt
 data/*resale-flat-prices-based-on*
 data/*.zip
 data/*.txt
+auth_info.py
+authentication_module/*
+onemap_access_token.py
